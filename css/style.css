@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #2d3c49;
+  background-color: #ffe6f2;  
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-muted {
+    color: #7d97ad;
+}
+
+header {
+    font-family: 'Lato', sans-serif;
+}
+
+header hr {
+    border: none;
+    height: 2px;
+    color: #7d97ad;
+    background-color: #7d97ad;
+}
+
+.title-logo {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 20px;
+}
+
+.title-logo i {
+    font-size: 7em;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.app-img {
+    border: 1px solid black;
+}
+
+.project h4 {
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 500px) {
+    .title-super {
+        font-size: 60px;
+    }
+
+    .title-super,
+    .title-mini {
+        text-align: center ;
+    }
+
+    .title-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .title-logo i {
+        font-size: 60px;
+    }
+}
