@@ -21,5 +21,5 @@ This project consists of the following folders & files:
 * `js folder` - All javascript related files in this folder such as bootstrap,Gruntfile,npm,jquery js files 
 
 ## How to Run this Project
--->Double click on index.html file. It will automatically displays the responsive portfolio project
+-->Double click on **index.html** file. It will automatically displays the responsive portfolio project
 
